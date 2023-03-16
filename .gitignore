@@ -1,0 +1,4 @@
+//create a gitignore to ignore .env but not .env.example
+.env
+!.env.example
+node_modules
